@@ -1,4 +1,4 @@
-# TechTotoro Chatbot Widget!
+# Chatbot-Widget-Tailwind-Js!
 
 This is a easy to use and modify **Tailwind+JS** widget. Just write a function and import the src/totorobot.js file in your code and use it.
 
