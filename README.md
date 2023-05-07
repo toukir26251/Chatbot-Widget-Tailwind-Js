@@ -27,7 +27,7 @@ This is a easy to use and modify **Tailwind+JS** widget. Just write a function a
 
 * Import src/totorobot.js in you web page.
 ```html
-	<script type="text/javascript" src="totorobot.js"></script>
+	<script type="text/javascript" src="src/totorobot.js"></script>
 ```
 
 # Advance Usages
